@@ -1,0 +1,70 @@
+{
+    "name": "BAGAS SETYAWAN - Electrical Engineering ",
+    "description": "Lulusan S1 Teknik Elektro konsentrasi Kendali dan Instrumentasi dengan pemahaman pada sistem kelistrikan, pembacaan wiring diagram kelistrikan, serta pemeliharaan peralatan. Memiliki pengalaman magang di bidang inspeksi intalasi kelistrikan, peswat angkat-angkut, dan pesawat tenaga produksi. Terbiasa bekerja secara sistematis, teliti, dan mampu bekerja dalam tim dengan baik. Memiliki minat bidang Energi Baru dan Terbarukan (EBT), sistem kontrol dan teknologi sistem monitoring.",
+    "profileImage": "images/myfoto.jpeg",
+    "email": "bagassetyawan080903@gmail.com",
+    "phone": "+62 (895) 368-393-295 ",
+    "socialMedia": [
+        {
+            "platform": "LinkedIn",
+            "url": "https://www.linkedin.com/in/davindra-daffa-areninio-1530242b8"
+        },
+        {
+            "platform": "GitHub",
+            "url": "https://github.com/davindradaff"
+        },
+        
+    
+        {
+            "platform": "Instagram",
+            "url": "https://instagram.com/davinndaff"
+        }
+    ],
+    "cv": {
+			"text": "Download CV",
+			"file": "docs/CV BAGAS SS.pdf",
+			"icon": "fas fa-file-pdf"
+	},
+   "skills": [
+        {
+            "name": "Electrical Engineering",
+            "icon": "fas fa-bolt"
+        },
+        {
+            "name": "Control & Instrumentation",
+            "icon": "fas fa-sliders-h"
+        },
+        {
+            "name": "Electrical Wiring Diagram",
+            "icon": "fas fa-project-diagram"
+        },
+        {
+            "name": "Microcontroller",
+            "icon": "fas fa-microchip"
+        },
+        {
+            "name": "Internet of Things",
+            "icon": "fas fa-wifi"
+        },
+        {
+            "name": "Electrical Maintenance",
+            "icon": "fas fa-tools"
+        },
+        {
+            "name": "Monitoring System",
+            "icon": "fas fa-chart-line"
+        },
+        {
+            "name": "Renewable Energy",
+            "icon": "fas fa-solar-panel"
+        },
+        {
+            "name": "Microsoft Office",
+            "icon": "fas fa-desktop"
+        },
+        {
+            "name": "Teamwork",
+            "icon": "fas fa-users"
+        }
+    ]
+}

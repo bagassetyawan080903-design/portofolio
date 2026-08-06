@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Sistem Monitoring Terpadu Energi PLTS Off-Grid pada Prototipe Smart Greenhouse",
+        "year": "2026",
+        "partner": "Universitas Semarang",
+        "role": "Proyek Tugas Akhir",
+        "description": "Merancang dan membangun sistem monitoring parameter kelistrikan PLTS off-grid yang meliputi tegangan (Vmp), arus (Imp), dan daya. Pada prototype smart greenhouse, parameter yang dimonitoring meliputi kondisi lingkungan dan kualitas air. Sistem yang dirancang memiliki tingkat keberhasilan komunikasi data mencapai 98% serta menyediakan akses dashboard monitoring yang fleksibel.",
+        "image": "images/monitoring.jpeg",
+        "link": ""
+    },
+    {
+        "title": "Perahu Wisata Elektrik Berbasis PLTS Off-Grid",
+        "year": "2026",
+        "partner": "Universitas Semarang",
+        "role": "Instalasi Sistem",
+        "description": "Berpartisipasi dalam pembangunan perahu wisata elektrik berbasis PLTS off-grid pada kegiatan Pengabdian kepada Masyarakat (PKM) di Desa Surodadi, Kecamatan Sayung, Kabupaten Demak. Berperan dalam proses instalasi sistem PLTS Of-grid untuk mendukung penerapan energi terbarukan pada perahu wisata elektrik.",
+        "image": "images/prau.jpeg",
+        "link": ""
+    },
+    {
+        "title": "Feedmatic HydroGuard",
+        "year": "2023",
+        "partner": "Electrical Engineering Classmate",
+        "role": "Project Vice-Design",
+        "description": "Developed an automated fish feeding system designed to optimize feeding schedules in aquaculture environments using a programmable microcontroller and supporting electronic components.",
+        "image": "images/project3-2023.jpg",
+        "link": ""
+    }
+]
